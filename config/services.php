@@ -44,4 +44,8 @@ return [
         ],
     ],
 
+    'fcm' => [
+        'key' => 'AIzaSyCfgBHK4_U1pizaeIGKG4azCEaDW_fbDIc'
+    ],
+
 ];
