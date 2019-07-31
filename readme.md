@@ -70,3 +70,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
+
+# this is a basic exercise of fire cloud message  with laravel 5.5
+
+
+**Relative URL:**/pushpage  =>push notification 
+
+
+**Relative URL:**/ =>get the notification premission and get the notification message
+
+
+if run without SSL you will need   `--ignore-certificate-errors --unsafely-treat-insecure-origin-as-secure=https://yourdomain`
